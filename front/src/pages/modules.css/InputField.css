@@ -1,0 +1,20 @@
+.document-form {
+  padding: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+.field-block {
+  margin-bottom: 15px;
+  
+}
+.labelField {
+  margin-right: 30px;
+  font-size: 20px;
+  display: block;
+}
+.form-button {
+  display: block !important;
+  margin: 0 auto !important;
+  margin-top: 30px !important;
+
+}
